@@ -22,4 +22,4 @@
 
 ## Authors
 
-* Raghav Shiv
+* [Raghav Shiv](https://github.com/rshiv7)
