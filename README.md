@@ -4,7 +4,7 @@
 
 ![alt text](assets/images/PsychicGame_Screenshot.png "Wireframe Screenshot")
 
-## First Bootcamp Homework.
+## How the Game works :
 
 
 
